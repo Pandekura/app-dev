@@ -31,12 +31,3 @@ I like Mr. Bean because:
 3. His teddy bear named Teddy.
 4. His hilarious everyday adventures.
 
-### Conclusion
-
-Overall, Mr. Bean is one of my favorite comedy series because it always makes me happy and laugh. I would recommend it to anyone who enjoys funny and entertaining shows.
-
-**Rating:** ⭐⭐⭐⭐⭐ (5/5)
-
----
-
-*Mr. Bean proves that laughter doesn't always need words!*
