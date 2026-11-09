@@ -7,7 +7,6 @@ My first repository
 
 **Mr. Bean** is a popular British comedy television series starring *Rowan Atkinson*. It is one of the funniest comedy shows because it uses facial expressions, funny actions, and hilarious situations instead of a lot of dialogue.
 
-![Mr. Bean](image.jpg)
 
 ## Why I Like Mr. Bean
 
@@ -24,15 +23,6 @@ I like Mr. Bean because:
 
 > A comedy character who can make people laugh without saying much!
 
-## Interesting Facts
-
-| Element | Description |
-|---|---|
-| Main Actor | Rowan Atkinson |
-| Genre | Comedy |
-| Country | United Kingdom |
-| First Released | 1990 |
-| Main Character | Mr. Bean |
 
 ## My Favorite Things About the Show
 
