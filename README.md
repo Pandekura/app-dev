@@ -1,2 +1,33 @@
 # app-dev
 My first repository
+
+	# Mr. Bean – My Favorite Comedy Series
+
+## Introduction
+
+**Mr. Bean** is a popular British comedy television series starring *Rowan Atkinson*. It is one of the funniest comedy shows because it uses facial expressions, funny actions, and hilarious situations instead of a lot of dialogue.
+
+
+## Why I Like Mr. Bean
+
+I like Mr. Bean because:
+
+- He is very funny and entertaining.
+- He always finds unusual ways to solve problems.
+- His facial expressions make me laugh.
+- His adventures are enjoyable for all ages.
+
+## My Favorite Character
+
+**Mr. Bean** is a funny, clever, and sometimes clumsy character.
+
+> A comedy character who can make people laugh without saying much!
+
+
+## My Favorite Things About the Show
+
+1. His funny facial expressions.
+2. His little green car.
+3. His teddy bear named Teddy.
+4. His hilarious everyday adventures.
+
